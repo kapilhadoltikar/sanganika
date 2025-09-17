@@ -1,7 +1,6 @@
 package com.chatapp.sanganika.chat;
 
 import lombok.*;
-import org.springframework.messaging.handler.annotation.SendTo;
 
 @Getter
 @Setter
